@@ -1,0 +1,24 @@
+.orangeLink {
+    color: orange;
+}
+
+.yellowLink {
+    background-color: yellow;
+    color: black;
+}
+
+.redLink {
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.without{
+    list-style: none;
+}
+
+.underline{
+    text-decoration: underline;
+}
